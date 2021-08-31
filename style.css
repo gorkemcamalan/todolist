@@ -1,0 +1,43 @@
+body{
+
+    text-align: center;
+  background-color: pink;
+}
+
+.container{
+
+    text-align: center;
+}
+
+
+#ekle{
+    height: 45px;
+    width: 80px;
+    border:2px solid blueviolet;
+    vertical-align: middle;
+    font-size: 25px;
+    outline: none;
+    cursor: pointer;
+    background-color: white;
+    color:black;
+    text-align:center;
+    border-radius: 20px;
+}
+
+#metin{
+    border:2px solid blueviolet;
+    height: 30px;
+    width: 300px;
+}
+#title{
+width: auto;
+
+
+}
+.paragraph-styling{
+    margin: 0;
+    color:black;
+    cursor: pointer;
+    font-size: 45px;
+    
+}
